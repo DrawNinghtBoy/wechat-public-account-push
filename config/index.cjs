@@ -14,18 +14,18 @@ const USER_CONFIG = {
   APP_SECRET: 'f59e32c708d3c0af6879cd904a1dde7d',
 
   PROVINCE: '江西',
-  CITY: '乐平市',
+  CITY: '乐平',
 
   USERS: [
     {
       // 想要发送的人的名字
       name: '宝贝',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: '',
+      id: 'oPD1k6TkQr6UXNfBf-5r341iPx3s',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: '',
+      useTemplateId: 'kwi7C3Pp7OUc_NpTX7BxB_7HVyn58Cq4U8EkGZsB67Q',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
-      horoscopeDate: '12-27',
+      horoscopeDate: '8-19',
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
